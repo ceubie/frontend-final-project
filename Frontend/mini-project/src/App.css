@@ -1,0 +1,16 @@
+
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; /* Light gray background */
+  color: #333; /* Dark text color for contrast */
+}
+
+/* Container padding */
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
